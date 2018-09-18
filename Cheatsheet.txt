@@ -1,0 +1,20 @@
+# Different types of data 
+
+1) standartized formats - easy for computer to read (clear separations,...)
+
+CSV - comma separated values
+
+JSON - Javascript object notation
+     - same as data in Javascript e.g. let flower = { name = "sunflower",
+                                                      color = "yellow"}
+                                                      
+XML - 
+
+
+
+Text file 
+PDF
+Website
+
+API - application programming interface 
+    - datasets that are changing over time (news articles, Twitter,...)
